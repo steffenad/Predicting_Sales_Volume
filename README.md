@@ -2,7 +2,7 @@
 <br>
 <br>
 
-The sales team is considering adding some new products to Blackwell's product mix. 
+The sales team is considering adding some new products to Blackwell's product mix.  
 
 They have shortlisted 17 that fit Blackwell’s business strategy, but now they need help narrowing the list down to five. 
 
@@ -11,7 +11,7 @@ Therefore it is necessary to perform a regression analysis to predict the sales 
 Then the profitability can be estimated with the given data set. 
 <br>
 <br>
-
+<br>
 
 In this analysis, the assumption is that certain attributes are associated with highly successful (current) products and
 
