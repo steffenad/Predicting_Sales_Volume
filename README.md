@@ -13,4 +13,4 @@ In this analysis, the assumption is that certain attributes are associated with 
 
 any potential new products that also have these attributes will be similarly successful, 
 
-regardless of if a potential new product is similar to an existing product or not.
+regardless if a potential new product is similar to an existing product or not.
